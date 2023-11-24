@@ -1,13 +1,13 @@
 # Guide to set-up PostgreSQL on remote Debian Server
 ## Table of contents
 1. Connectiong to the Debian Server
-  ```
-  ssh -p <port> <username>@<server address>
-  # example = ssh -p 2222 root@nonsense.ddns.net
-  # Welcome to fish, the friendly interactive shell
-  # Type help for instructions on how to use fish
-  # root@debian12 ~#
-  ```
+    ```
+    ssh -p <port> <username>@<server address>
+    # example = ssh -p 2222 root@nonsense.ddns.net
+    # Welcome to fish, the friendly interactive shell
+    # Type help for instructions on how to use fish
+    # root@debian12 ~#
+    ```
 
 2. Installing PostgreSQL
   * Install PostgreSQL   
