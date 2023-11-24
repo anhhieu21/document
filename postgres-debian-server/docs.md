@@ -1,6 +1,5 @@
-# Guide to set-up PostgreSQL on remote Debian Server
-## Table of contents
-1. Connectiong to the Debian Server
+## Guide to set-up PostgreSQL on remote Debian Server
+### Connectiong to the Debian Server
     ```
     ssh -p <port> <username>@<server address>
     # example = ssh -p 2222 root@nonsense.ddns.net
@@ -9,7 +8,7 @@
     # root@debian12 ~#
     ```
 
-2. Installing PostgreSQL
+### Installing PostgreSQL
   * Install PostgreSQL   
     ```
     sudo apt-get update
@@ -24,7 +23,7 @@
     sudo -u postgres psql
     ```
         
-3. Configuring PostgreSQL for remote connection
+### Configuring PostgreSQL for remote connection
   * Create user
     ```
     CREATE USER your_user WITH PASSWORD 'your_password';
