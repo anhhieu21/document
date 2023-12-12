@@ -1,10 +1,11 @@
-# DOCS
+# MY FLOW
 > [!IMPORTANT]
 > Reference documents [RoadMap](https://roadmap.sh/backend).
 ## BE learning - Golang - PostgreSQL - Docker - GNU/Linux
-- [ ] learn golang
-- [ ] build goapp
-- [ ] work with postgreSQL
-- [ ] work with remote server
-- [ ] learn docker
-- [ ] deploy goapp to docker
+Beginer learn
+- Learn golang
+- Build goapp
+- Work with postgreSQL
+- Work with remote server
+- Learn docker
+- Deploy goapp to docker
